@@ -26,10 +26,10 @@ Detail-oriented and results-driven professional with over three years of experie
 - [Ultra Marathon Analysis](https://github.com/ArunJakhmola/Ultra_marathon_project) - Analyzed ultra marathon data to study participant performance and factors affecting race completion.
 
 ## Certificates
-- Certificate in [Linkedin Excel to Sql](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/linkedin_excel_to_sql.png)
-- Certificate in [SQL Intermediate](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/sololearn_sql_intermediate.png)
-- Certificate in [Python Intermediate](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/sololearn_python_intermediate.png)
-- Certificate in [Sololearn Coding for Data](https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/sololearn_coding_for_data.png)
+- Certificate in [Linkedin Excel to Sql](https://www.linkedin.com/learning/certificates/8b5fea2418114fd016b0ecb0a5e3bbce6c9b0e521e3f995d74882dcb11c3057a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BytynFg1cSUucDKIgA3MWXQ%3D%3D)
+- Certificate in [SQL Intermediate](https://www.sololearn.com/certificates/CC-V9AFFD4L)
+- Certificate in [Python Intermediate](https://www.sololearn.com/certificates/CC-ZYNWMZ9D)
+- Certificate in [Sololearn Coding for Data](https://www.sololearn.com/certificates/CC-FCXZ2MEH)
 
 ## Education
 - **Master of Commerce (Management)**, Indira Gandhi National Open University, Delhi, 2021 - 2023
