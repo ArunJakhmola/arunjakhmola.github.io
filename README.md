@@ -1,4 +1,4 @@
-## Arun Jakhmola
+# Arun Jakhmola
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ArunJakhmola/arunjakhmola.github.io/main/assets/arun_rounded_headshot.png" alt="Profile Photo" width="300" height="300">
