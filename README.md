@@ -8,7 +8,7 @@
 Detail-oriented and results-driven professional with over three years of experience in research analytics, particularly in the Insurance sector. Proficient in analyzing data to identify anomalies and discrepancies, with a focus on improving operational efficiency and financial accuracy. Skilled in Microsoft Excel and Power BI, with ongoing development in SQL and Python for advanced data analysis. Seeking a data analyst role to apply my analytical skills and continue professional growth.
 
 ## Skills
-- Excel/ Google Sheets | 
+- Excel/ Google Sheets
 - Power BI
 - SQL
 - Python (Pandas, Matplotlib, Seaborn)
