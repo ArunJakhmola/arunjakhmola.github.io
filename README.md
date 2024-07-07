@@ -1,4 +1,4 @@
-# <div align="center">Arun Jakhmola</div>
+## Arun Jakhmola
 
 <div align="center">
   <img src="https://github.com/ArunJakhmola/arunjakhmola.github.io/blob/main/assets/arun_rounded_headshot.png" alt="Profile Photo" width="300" height="300">
