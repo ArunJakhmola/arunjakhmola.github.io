@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/ArunJakhmola/arunjakhmola.github.io/main/assets/arun_rounded_headshot.png" alt="Profile Photo" width="300" height="300">
 </div>
 
+# Portfolio 
+[Website](arunjakhmola.github.io)
+
+
 ## Summary
 Detail-oriented and results-driven professional with over three years of experience in research analytics, particularly in the Insurance sector. Proficient in analyzing data to identify anomalies and discrepancies, with a focus on improving operational efficiency and financial accuracy. Skilled in Microsoft Excel and Power BI, with ongoing development in SQL and Python for advanced data analysis. Seeking a data analyst role to apply my analytical skills and continue professional growth.
 
